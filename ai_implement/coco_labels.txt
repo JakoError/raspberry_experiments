@@ -1,0 +1,80 @@
+0  person人
+1  bicycle自行车
+2  car车
+3  motorcycle摩托车
+4  airplane飞机
+5  bus公交车
+6  train火车
+7  truck卡车
+8  boat船
+9  traffic light红绿灯
+10  fire hydrant消防栓
+12  stop sign停止标志
+13  parking meter停车计时器
+14  bench长椅
+15  bird鸟
+16  cat猫
+17  dog狗
+18  horse马
+19  sheep羊
+20  cow牛
+21  elephant大象
+22  bear熊
+23  zebra斑马
+24  giraffe长颈鹿
+26  backpack背包
+27  umbrella尺子
+30  handbag手提包
+31  tie领带
+32  suitcase行李箱
+33  frisbee飞盘
+34  skis滑雪橇
+35  snowboard滑雪板
+36  sports ball球
+37  kite风筝
+38  baseball bat棒球棒
+39  baseball glove棒球手套
+40  skateboard滑板
+41  surfboard冲浪板
+42  tennis racket网球拍
+43  bottle瓶子
+45  wine glass酒瓶
+46  cup杯子
+47  fork叉子
+48  knife刀
+49  spoon勺子
+50  bowl碗
+51  banana香蕉
+52  apple苹果
+53  sandwich三明治
+54  orange橘子
+55  broccoli西兰花
+56  carrot胡萝卜
+57  hot dog热狗
+58  pizza披萨
+59  donut甜甜圈
+60  cake蛋糕
+61  chair椅子
+62  couch沙发
+63  potted plant盆栽
+64  bed床
+66  dining table饭桌
+69  toilet厕所
+71  tv电视
+72  laptop笔记本
+73  mouse鼠标
+74  remote遥控器
+75  keyboard键盘
+76  cell phone手机
+77  microwave微波炉
+78  oven烤箱
+79  toaster烤面包机
+80  sink墨水
+81  refrigerator冰箱
+83  book书
+84  clock钟表
+85  vase花瓶
+86  scissors剪刀
+87  teddy bear泰迪熊
+88  hair drier吹风机
+89  toothbrush牙刷
